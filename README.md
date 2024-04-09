@@ -15,7 +15,6 @@ And the best part? If you're up for a challenge, you can play again and again! �
 
 Ready to test your guessing skills? Try it out now and let me know how you fare! 🚀💬
 
-#NumberGuessingGame #CPlusPlus #CodingFun #ChallengeAccepted #GuessTheNumber
 
 
 
